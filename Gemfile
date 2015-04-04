@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 
 gem 'paperclip'
-gem 'aws-sdk'
+gem 'aws-sdk', '~> 1.61.0'
 
 group :development, :test do
   gem 'sqlite3'
