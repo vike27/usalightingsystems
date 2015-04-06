@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 
 gem 'paperclip'
+gem 'rmagick', '2.14.0'
 gem 'aws-sdk', '~> 1.61.0'
 
 group :development, :test do
